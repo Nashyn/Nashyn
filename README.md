@@ -11,7 +11,7 @@
 
 ## 🧔 About Me
 
-Software Developer | CS Graduate Student @Dalhousie University | 
+Software Developer | CS Graduate Student @Dalhousie University | Ex @ Pocketly
 
 - 🔭 Actively on the lookout for Co-op/Full-time positions in the Software Industry.
 - 🌱 Worked on multiple projects related to web development and cloud technologies.
@@ -31,10 +31,12 @@ Software Developer | CS Graduate Student @Dalhousie University |
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <!-- React -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <!-- Angular -->
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <!-- Vue.js -->
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <!-- Azure -->
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <!-- Sass -->
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <!-- TypeScript -->
