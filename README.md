@@ -11,7 +11,7 @@
 
 ## 🧔 About Me
 
-Software Developer | CS Graduate Student @Dalhousie University | Ex @ Pocketly
+Software Developer | CS Graduate Student @Dalhousie University | Ex @ TrendMicro
 
 - 🔭 Actively on the lookout for Full-time positions in the Software Industry.
 - 🌱 Worked on multiple projects related to web development and cloud technologies.
