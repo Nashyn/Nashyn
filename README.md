@@ -13,7 +13,7 @@
 
 Software Developer | CS Graduate Student @Dalhousie University | Ex @ Pocketly
 
-- 🔭 Actively on the lookout for Co-op/Full-time positions in the Software Industry.
+- 🔭 Actively on the lookout for Full-time positions in the Software Industry.
 - 🌱 Worked on multiple projects related to web development and cloud technologies.
 - ⚽ Football and chess enthusiast.
 - 📫 Feel free to reach out to me at [nisargchudasama0@gmail.com](mailto:nisargchudasama0@gmail.com).
